@@ -1,0 +1,158 @@
+{
+  "main": {
+    "name": "Shivam Agarwal",
+    "occupation": "Student",
+    "description": "Seeking Full Stack Software Developer Roles",
+    "image": "Naz.jpg",
+    "bio": "My name is Shivam, I'm a Full Stack Developer. Currently I'm looking for full-time software development roles.",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "shivamagarwal2996@gmail.com",
+    "phone": "+1(352)3288458",
+    "address": {
+      "street": "4000 SW 37th Blvd Apt : 618A",
+      "city": "Gainesville",
+      "state": "Florida",
+      "zip": "32608"
+    },
+    "website": "https://drive.google.com/file/d/1FAeipkzwUmrW8HJcwX2fwWJlGRYVaDEn/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1FAeipkzwUmrW8HJcwX2fwWJlGRYVaDEn/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/shiv1996/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/shiv_gator/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/shivamagarwal2996",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "University Of Florida",
+        "degree": "Master's Degree, Computer Science",
+        "graduated": "December, 2020",
+        "GPA": "3.50/4.0"
+      },
+      {
+        "school": "Jaypee University Of Engineering & Technology",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "December, 2018"
+        
+      }
+
+    ],
+    "work": [
+      {
+        "company": "Claimfound, Inc",
+        "title": "Software developer",
+        "years": "September 2020 - December 2020",
+        "description": "Implemented a dockerized full stack web application demonstrating a blog post for a well rounded social media experience of target users.Implemented a robust interface using Angular and effective data storage by flask using SQLalchemy,Flask-Restful, Celery and PostgreSQL database.Established a shared domain for frontend and backend using NGINX server. The containers are networked together with Docker Compose as a reverse proxy."
+      },
+      {
+        "company": "Andhra Pradesh Higher Education Board",
+        "title": "Full-stack-software Developer intern",
+        "years": "May 2018 - Jul 2018",
+        "description": "Architected and developed a full stack Single Page Web Application for sale and purchase of Statements of Purpose for students applying for higher education abroad. Applied understanding of JavaScript to create the application front-end with ReactJS and the back-end with NodeJS and provided authentication using Auth0. Deployed the web application using AWS EC2 to provision servers, RDS for a PostgreSQL database and bash scripts to automate server initialization."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Python",
+        "level": "95%"
+      },
+      {
+        "name": "Java",
+        "level": "95%"
+      },
+      {
+        "name": "C",
+        "level": "70%"
+      },{
+        "name": "C++",
+        "level": "70%"
+      },{
+        "name": "MySql",
+        "level": "90%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "75%"
+      },{
+        "name": "Angular",
+        "level": "55%"
+      },
+      {
+        "name": "Git",
+        "level": "75%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "100%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "P2P File Sharing System",
+        "category": "File Sharing System built in Java",
+        "image": "zoom.jpg",
+        "url": "https://github.com/shivamagarwal2996/P2P-File-Sharing-System"
+      },
+      {
+        "title": "COVID-19 Tracker",
+        "category": "COVID-19 Tracker built with ES6 JavaScript, HTML, CSS, MDN web-speech API, Coronavirus tracker API",
+        "image": "covid.jpg",
+        "url": "https://github.com/shivamagarwal2996/covid-19-Tracker"
+      },
+      {
+        "title": "Twitter Simulation",
+        "category": "Twitter Simulation with Elixir",
+        "image": "twitter.jpg",
+        "url": "https://github.com/shivamagarwal2996/twitter-clone"
+      },
+      {
+        "title": "Decentralized MarketPlace",
+        "category": "Peer to peer based dcentralized market place application",
+        "image": "marketplace.jpg",
+        "url": "https://github.com/shivamagarwal2996/decentralized_marketPlace"
+      },
+      {
+        "title": "bplus_tree",
+        "category": "Implementation of Bplus tree in JAVA",
+        "image": "bplus.jpg",
+        "url": "https://github.com/shivamagarwal2996/bplus_tree"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Naz must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
