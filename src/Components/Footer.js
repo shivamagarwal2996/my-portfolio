@@ -19,11 +19,7 @@ class Footer extends Component {
            </ul>
 
            <ul>
-            <li>Modified with love by the template provided by the Clever Programmer team ♥️</li>
-           </ul>
-
-           <ul className="copyright">
-              <li>Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></li>
+            <li>Built and deployed by Shivam Agarwal😁</li>
            </ul>
 
         </div>
